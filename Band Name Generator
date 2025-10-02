@@ -1,0 +1,5 @@
+print("Hy My name is aryan")
+print("What is the name of the city you grew up in?")
+city=input("What is the name of the city you grew up in?")
+petname=input("What is the name of your pet?");
+print(f"The band name will be {city}{petname}")
